@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\димитрис\documents\visual studio 2017\projects\imagelib\imagelib\main.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+  ImageLib.vcxproj -> C:\Users\димитрис\Documents\Visual Studio 2017\Projects\ImageLib\Debug\ImageLib.exe
